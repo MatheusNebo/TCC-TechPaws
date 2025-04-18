@@ -1,6 +1,7 @@
 # TechPaws
 
-Este repositório apresenta minha participação no projeto de TCC desenvolvido em grupo.
+Este repositório apresenta minha participação no projeto de TCC desenvolvido em grupo no Colégio Técnico Industrial “Prof. Isaac Portal
+Roldán”.
 
 🔗 Repositório original: [https://github.com/Raf4Janni/TCC](https://github.com/Raf4Janni/TCC)
 
