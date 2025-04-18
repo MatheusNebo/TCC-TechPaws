@@ -1,5 +1,9 @@
 # TechPaws
 
+Este repositório apresenta minha participação no projeto de TCC desenvolvido em grupo.
+
+🔗 Repositório original: [https://github.com/Raf4Janni/TCC](https://github.com/Raf4Janni/TCC)
+
 ## Descrição
 
 O TechPaws é um software gratuito desenvolvido para auxiliar abrigos de animais na gestão de suas operações. O projeto visa otimizar processos administrativos, permitindo que os abrigos foquem mais no cuidado dos animais. Ele facilita o acesso da comunidade a informações sobre animais disponíveis para adoção e atividades do abrigo. As principais funcionalidades incluem o registro de animais, acompanhamento médico-veterinário e gestão de voluntários, promovendo assim o bem-estar animal e fortalecendo o trabalho das organizações.
